@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FURKAN TOMU</h1>
+<h1 align="center">Hi, I'm FURKAN TOMU</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 📫 How to reach me **furkantomu@outlook.com**
